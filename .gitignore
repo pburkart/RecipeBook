@@ -21,3 +21,14 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# GitHub
+
+/.phpunit.cache
+/public/build
+.env.backup
+.env.production
+auth.json
+/.fleet
+/.idea
+/.vscode
